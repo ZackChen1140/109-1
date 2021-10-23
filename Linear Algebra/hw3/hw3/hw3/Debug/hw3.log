@@ -1,0 +1,3 @@
+﻿  hw3.cpp
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\線性代數\hw3\hw3\hw3\hw3.cpp(14,22): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  hw3.vcxproj -> D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\線性代數\hw3\hw3\Debug\hw3.exe
