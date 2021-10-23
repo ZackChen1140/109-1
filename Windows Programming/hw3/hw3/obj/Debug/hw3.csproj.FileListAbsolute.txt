@@ -1,0 +1,10 @@
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw3\hw3\bin\Debug\hw3.exe.config
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw3\hw3\bin\Debug\hw3.exe
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw3\hw3\bin\Debug\hw3.pdb
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw3\hw3\obj\Debug\hw3.csprojAssemblyReference.cache
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw3\hw3\obj\Debug\hw3.Form1.resources
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw3\hw3\obj\Debug\hw3.Properties.Resources.resources
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw3\hw3\obj\Debug\hw3.csproj.GenerateResource.cache
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw3\hw3\obj\Debug\hw3.csproj.CoreCompileInputs.cache
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw3\hw3\obj\Debug\hw3.exe
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw3\hw3\obj\Debug\hw3.pdb
