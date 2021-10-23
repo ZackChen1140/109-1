@@ -1,0 +1,11 @@
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw7\hw7\WP_12_2\bin\Release\WP_12_2.exe.config
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw7\hw7\WP_12_2\bin\Release\WP_12_2.exe
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw7\hw7\WP_12_2\bin\Release\WP_12_2.pdb
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw7\hw7\WP_12_2\obj\Release\WP_12_2.Form1.resources
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw7\hw7\WP_12_2\obj\Release\WP_12_2.Form2.resources
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw7\hw7\WP_12_2\obj\Release\WP_12_2.Form3.resources
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw7\hw7\WP_12_2\obj\Release\WP_12_2.Properties.Resources.resources
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw7\hw7\WP_12_2\obj\Release\WP_12_2.csproj.GenerateResource.cache
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw7\hw7\WP_12_2\obj\Release\WP_12_2.csproj.CoreCompileInputs.cache
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw7\hw7\WP_12_2\obj\Release\WP_12_2.exe
+D:\Users\JFS-2016\Desktop\課業\作業\二年級(上)\視窗程式設計\hw7\hw7\WP_12_2\obj\Release\WP_12_2.pdb
